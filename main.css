@@ -1,0 +1,25 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+	
+}
+table{
+	border-collapse: collapse;
+	border-spacing: 0px;
+	margin: 0px;
+}
+table tr td{
+	width: 90px;
+	height: 90px;
+	border:1px solid black;
+	font-size: 35px;
+	text-align: center;
+}
+
+table tr td:hover{
+	cursor: pointer;
+	background-color: yellow;
+}
